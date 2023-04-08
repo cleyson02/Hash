@@ -1,14 +1,8 @@
 import static org.junit.Assert.assertFalse;
 import static org.junit.Assert.assertTrue;
 
-import java.util.LinkedHashSet;
-import java.util.Random;
-import java.util.Set;
-
 import org.junit.Before;
 import org.junit.Test;
-
-import hash.EstruturaHashTable;
 
 public class TestHashingAberto {
     
